@@ -1,25 +1,61 @@
 # Sophia Wang
-sowang100@gmail.com
-# Education
-SEPTEMBER 2024 - JUNE 2028
-Horace Greeley Highschool, Chappaqua New York – Sophomore
-GPA: 4.0/4.0
-Varsity tennis player since freshman year, New York state champion 2024, runner up for state champion
-2025; with a strong academic focus on pursuing a future career in medicine.
-# Manuscripts
-Sophia Wang, Chang Su. Problematic Internet Use: Identification, Intervention and the Promise of AI.
-Computers in Human Behavior Reports. Submitted. 2026.
-# Leadership &amp; Extracurricular Activities
-July 2025 – PRESENT
-MAANGO (Making Asian Americans Noticeably Grow Outwards), Westchester New York -
-President
-- Goal: to engage Westchester AAPI youth in meaningful activities and build a strong community and educate
-AAPI youth
-- We host monthly events (interactive, keynote speakers, etc.) at public libraries
-# Work Experience
-July 2025 - PRESENT
-BrightPrep Tutoring, Chappaqua New York - Tutor
-- Tutor Students on various subjects (e.g. Physics, Math Honors, French).
-# Skills &amp; Awards
-- Native Chinese reading, writing, and speaking proficiency.
-- Recipient of OCA Volunteer Award
+
+Chappaqua, New York  
+Email: sowang100@gmail.com  
+
+---
+
+## Education
+
+**Horace Greeley High School**, Chappaqua, New York  
+September 2024 – June 2028  
+GPA: 4.0 / 4.0  
+
+Varsity tennis player since freshman year.  
+New York State Champion (2024)  
+New York State Runner-Up (2025)  
+
+Strong academic focus with an intended future career in medicine.
+
+---
+
+## Research & Publications
+
+Wang, S., Su, C.  
+*Problematic Internet Use: Identification, Intervention, and the Promise of AI.*  
+Submitted to **Computers in Human Behavior Reports**, 2026.
+
+---
+
+## Leadership & Extracurricular Activities
+
+**President**, MAANGO (Making Asian Americans Noticeably Grow Outwards)  
+Westchester, New York | July 2025 – Present  
+
+- Lead an organization dedicated to engaging Westchester AAPI youth in meaningful activities.  
+- Organize monthly events including interactive workshops and keynote speaker sessions at public libraries.  
+- Focus on community-building and educational initiatives.
+
+---
+
+## Work Experience
+
+**Tutor**, BrightPrep Tutoring  
+Chappaqua, New York | July 2025 – Present  
+
+- Provide tutoring in Physics, Honors Mathematics, and French.  
+- Support students in strengthening conceptual understanding and academic performance.
+
+---
+
+## Skills
+
+- Native proficiency in Chinese (reading, writing, speaking)  
+- Strong academic foundation in STEM subjects  
+- Public speaking and organizational leadership  
+
+---
+
+## Awards
+
+- OCA Volunteer Award
